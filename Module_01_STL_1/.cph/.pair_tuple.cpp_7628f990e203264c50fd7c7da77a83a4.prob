@@ -1,0 +1,1 @@
+{"name":"Local: pair_tuple","url":"e:\\XPSC_Module\\Module_01_STL_1\\pair_tuple.cpp","tests":[{"id":1743829007270,"input":"5\nNasirUddin 10\nNurHossen 11\nAmirHossen 12\nAmenaBegum 13\nAbdulOaDud 14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC_Module\\Module_01_STL_1\\pair_tuple.cpp","group":"local","local":true}
